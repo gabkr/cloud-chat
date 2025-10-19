@@ -3,5 +3,3 @@ uvicorn
 openai
 magnum
 boto3
-os
-json
