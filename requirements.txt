@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 openai
-magnum
+mangum
 boto3
 dotenv
